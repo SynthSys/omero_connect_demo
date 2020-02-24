@@ -1,0 +1,2519 @@
+28-Sep-2018
+Microscope name is: Batgirl
+Experiment details:
+Aim: Compare morphology markers across microscopes
+Strain:
+Htb2-GFP
+Myo1-GFP
+Hog1-GFP
+Lte1-GFP
+Vph1-GFP
+Comments:
+Low OD O/N. Log growth from OD0.1 for four hours.
+Microscope setup for used channels:
+Brightfield:
+"White LED
+->(polarizer + prism + condenser)"]
+->Filter block:["59022 exciter, 59022 dichroic, 535/50 emission filter]
+->Emission filter wheel:[]
+DIC:
+"White LED
+->(polarizer + prism + condenser)"]
+->Filter block:["No exciter, No dichroic, Analyser]
+->Emission filter wheel:[]
+GFP:
+"470nm LED
+->Combiner cube:[ No exciter in combiner cube,  495lp dichroic-> (425lp dichroic)"]
+->Filter block:["59022 exciter, 59022 dichroic, 535/50 emission filter]
+->Emission filter wheel:[]
+Micromanager config file:C:\Users\Public\Microscope control\Micromanager config files\Batgirl5_9_18noemissionfilter.txt
+Omero project:
+Morphology detection
+Omero tags:
+28-Sep-2018,Batgirl,
+PFS is locked
+Experiment started at:28-Sep-2018 17:18:14
+
+------Time point_1------
+Memory available for all arrays: 62851526656
+Memory used by Matlab: 1605521408
+Position:1,pos001
+Position group:1
+Channel configuration set to: Brightfield: 28-Sep-2018 17:18:14
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:18:14
+Moved to X:10846.5, Y:10208.1
+Call to readDrift after moving to position1
+readDrift script. Reference z position is:3431.4251
+readDrift script. Cumulative drift is:-0.925
+Channel configuration set to: Brightfield: 28-Sep-2018 17:18:15
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:18:15
+Channel:Brightfield set at:28-Sep-2018 17:18:15
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3430.4501. 28-Sep-2018 17:18:15
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:18:15
+Channel configuration set to: DIC: 28-Sep-2018 17:18:18
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:18:18
+Channel:DIC set at:28-Sep-2018 17:18:18
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3430.4751. 28-Sep-2018 17:18:19
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:18:19
+Channel configuration set to: GFP: 28-Sep-2018 17:18:22
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:18:22
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:18:22
+Channel:GFP set at:28-Sep-2018 17:18:22
+Exposure time:7ms
+Exposure time:7ms
+captureStack (Batgirl). Z drive position before stack capture is: 3430.5001. 28-Sep-2018 17:18:23
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:18:23
+Position:2,pos002
+Position group:1
+Channel configuration set to: Brightfield: 28-Sep-2018 17:18:25
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:18:25
+Evolve:Port set to Normal  28-Sep-2018 17:18:26
+Moved to X:10846.5, Y:9805.6
+Call to readDrift after moving to position2
+readDrift script. Reference z position is:3430.8751
+readDrift script. Cumulative drift is:-0.45
+Channel configuration set to: Brightfield: 28-Sep-2018 17:18:26
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:18:26
+Channel:Brightfield set at:28-Sep-2018 17:18:26
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3430.2251. 28-Sep-2018 17:18:27
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:18:27
+Channel configuration set to: DIC: 28-Sep-2018 17:18:30
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:18:30
+Channel:DIC set at:28-Sep-2018 17:18:30
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3430.2251. 28-Sep-2018 17:18:31
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:18:31
+Channel configuration set to: GFP: 28-Sep-2018 17:18:33
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:18:33
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:18:33
+Channel:GFP set at:28-Sep-2018 17:18:33
+Exposure time:7ms
+Exposure time:7ms
+captureStack (Batgirl). Z drive position before stack capture is: 3430.2251. 28-Sep-2018 17:18:34
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:18:34
+Position:3,pos003
+Position group:1
+Channel configuration set to: Brightfield: 28-Sep-2018 17:18:37
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:18:37
+Evolve:Port set to Normal  28-Sep-2018 17:18:37
+Moved to X:10479.3, Y:9805.6
+Call to readDrift after moving to position3
+readDrift script. Reference z position is:3432.1001
+readDrift script. Cumulative drift is:-0.85
+Channel configuration set to: Brightfield: 28-Sep-2018 17:18:37
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:18:37
+Channel:Brightfield set at:28-Sep-2018 17:18:37
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3431.2251. 28-Sep-2018 17:18:38
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:18:38
+Channel configuration set to: DIC: 28-Sep-2018 17:18:40
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:18:40
+Channel:DIC set at:28-Sep-2018 17:18:40
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3431.2001. 28-Sep-2018 17:18:42
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:18:42
+Channel configuration set to: GFP: 28-Sep-2018 17:18:44
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:18:44
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:18:44
+Channel:GFP set at:28-Sep-2018 17:18:44
+Exposure time:7ms
+Exposure time:7ms
+captureStack (Batgirl). Z drive position before stack capture is: 3431.2001. 28-Sep-2018 17:18:45
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:18:45
+Position:4,pos004
+Position group:1
+Channel configuration set to: Brightfield: 28-Sep-2018 17:18:47
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:18:47
+Evolve:Port set to Normal  28-Sep-2018 17:18:47
+Moved to X:9983.8, Y:9820.7
+Call to readDrift after moving to position4
+readDrift script. Reference z position is:3433.0001
+readDrift script. Cumulative drift is:-0.825
+Channel configuration set to: Brightfield: 28-Sep-2018 17:18:48
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:18:48
+Channel:Brightfield set at:28-Sep-2018 17:18:48
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3432.1751. 28-Sep-2018 17:18:48
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:18:48
+Channel configuration set to: DIC: 28-Sep-2018 17:18:51
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:18:51
+Channel:DIC set at:28-Sep-2018 17:18:51
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3432.1001. 28-Sep-2018 17:18:52
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:18:52
+Channel configuration set to: GFP: 28-Sep-2018 17:18:55
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:18:55
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:18:55
+Channel:GFP set at:28-Sep-2018 17:18:55
+Exposure time:7ms
+Exposure time:7ms
+captureStack (Batgirl). Z drive position before stack capture is: 3432.1251. 28-Sep-2018 17:18:55
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:18:55
+Position:5,pos005
+Position group:1
+Channel configuration set to: Brightfield: 28-Sep-2018 17:18:58
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:18:58
+Evolve:Port set to Normal  28-Sep-2018 17:18:58
+Moved to X:9990.9, Y:10223
+Call to readDrift after moving to position5
+readDrift script. Reference z position is:3432.9251
+readDrift script. Cumulative drift is:-2.1
+Channel configuration set to: Brightfield: 28-Sep-2018 17:18:59
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:18:59
+Channel:Brightfield set at:28-Sep-2018 17:18:59
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3430.8251. 28-Sep-2018 17:18:59
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:18:59
+Channel configuration set to: DIC: 28-Sep-2018 17:19:02
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:19:02
+Channel:DIC set at:28-Sep-2018 17:19:02
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3430.7751. 28-Sep-2018 17:19:03
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:19:03
+Channel configuration set to: GFP: 28-Sep-2018 17:19:06
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:19:06
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:19:06
+Channel:GFP set at:28-Sep-2018 17:19:06
+Exposure time:7ms
+Exposure time:7ms
+captureStack (Batgirl). Z drive position before stack capture is: 3430.8001. 28-Sep-2018 17:19:07
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:19:07
+Position:6,pos006
+Position group:2
+Channel configuration set to: Brightfield: 28-Sep-2018 17:19:09
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:19:09
+Evolve:Port set to Normal  28-Sep-2018 17:19:10
+Moved to X:9288.9, Y:10259.6
+Call to readDrift after moving to position6
+readDrift script. Reference z position is:3432.4001
+readDrift script. Cumulative drift is:-1.35
+Channel configuration set to: Brightfield: 28-Sep-2018 17:19:10
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:19:10
+Channel:Brightfield set at:28-Sep-2018 17:19:10
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3431.0501. 28-Sep-2018 17:19:10
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:19:11
+Channel configuration set to: DIC: 28-Sep-2018 17:19:13
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:19:13
+Channel:DIC set at:28-Sep-2018 17:19:13
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3431.0501. 28-Sep-2018 17:19:14
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:19:14
+Channel configuration set to: GFP: 28-Sep-2018 17:19:17
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:19:17
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:19:17
+Channel:GFP set at:28-Sep-2018 17:19:17
+Exposure time:60ms
+Exposure time:60ms
+captureStack (Batgirl). Z drive position before stack capture is: 3431.0501. 28-Sep-2018 17:19:18
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:19:18
+Position:7,pos007
+Position group:2
+Channel configuration set to: Brightfield: 28-Sep-2018 17:19:21
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:19:21
+Evolve:Port set to Normal  28-Sep-2018 17:19:21
+Moved to X:8569.5, Y:10233.2
+Call to readDrift after moving to position7
+readDrift script. Reference z position is:3430.7251
+readDrift script. Cumulative drift is:0.325
+Channel configuration set to: Brightfield: 28-Sep-2018 17:19:21
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:19:21
+Channel:Brightfield set at:28-Sep-2018 17:19:21
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3430.0751. 28-Sep-2018 17:19:22
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:19:22
+Channel configuration set to: DIC: 28-Sep-2018 17:19:24
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:19:24
+Channel:DIC set at:28-Sep-2018 17:19:24
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3430.0751. 28-Sep-2018 17:19:25
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:19:25
+Channel configuration set to: GFP: 28-Sep-2018 17:19:28
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:19:28
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:19:28
+Channel:GFP set at:28-Sep-2018 17:19:28
+Exposure time:60ms
+Exposure time:60ms
+captureStack (Batgirl). Z drive position before stack capture is: 3430.0751. 28-Sep-2018 17:19:29
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:19:29
+Position:8,pos008
+Position group:2
+Channel configuration set to: Brightfield: 28-Sep-2018 17:19:32
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:19:32
+Evolve:Port set to Normal  28-Sep-2018 17:19:32
+Moved to X:8569.5, Y:9844.6
+Call to readDrift after moving to position8
+readDrift script. Reference z position is:3430.5751
+readDrift script. Cumulative drift is:-0.9
+Channel configuration set to: Brightfield: 28-Sep-2018 17:19:32
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:19:32
+Channel:Brightfield set at:28-Sep-2018 17:19:32
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3429.8501. 28-Sep-2018 17:19:33
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:19:33
+Channel configuration set to: DIC: 28-Sep-2018 17:19:36
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:19:36
+Channel:DIC set at:28-Sep-2018 17:19:36
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3429.8251. 28-Sep-2018 17:19:37
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:19:37
+Channel configuration set to: GFP: 28-Sep-2018 17:19:40
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:19:40
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:19:40
+Channel:GFP set at:28-Sep-2018 17:19:40
+Exposure time:60ms
+Exposure time:60ms
+captureStack (Batgirl). Z drive position before stack capture is: 3429.8501. 28-Sep-2018 17:19:41
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:19:41
+Position:9,pos009
+Position group:2
+Channel configuration set to: Brightfield: 28-Sep-2018 17:19:44
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:19:44
+Evolve:Port set to Normal  28-Sep-2018 17:19:44
+Moved to X:8788.8, Y:9823.9
+Call to readDrift after moving to position9
+readDrift script. Reference z position is:3431.8501
+readDrift script. Cumulative drift is:-1.375
+Channel configuration set to: Brightfield: 28-Sep-2018 17:19:44
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:19:44
+Channel:Brightfield set at:28-Sep-2018 17:19:44
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3430.4501. 28-Sep-2018 17:19:45
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:19:45
+Channel configuration set to: DIC: 28-Sep-2018 17:19:48
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:19:48
+Channel:DIC set at:28-Sep-2018 17:19:48
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3430.4501. 28-Sep-2018 17:19:49
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:19:49
+Channel configuration set to: GFP: 28-Sep-2018 17:19:52
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:19:52
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:19:52
+Channel:GFP set at:28-Sep-2018 17:19:52
+Exposure time:60ms
+Exposure time:60ms
+captureStack (Batgirl). Z drive position before stack capture is: 3430.4501. 28-Sep-2018 17:19:53
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:19:53
+Position:10,pos010
+Position group:2
+Channel configuration set to: Brightfield: 28-Sep-2018 17:19:55
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:19:55
+Evolve:Port set to Normal  28-Sep-2018 17:19:55
+Moved to X:9215, Y:9815.1
+Call to readDrift after moving to position10
+readDrift script. Reference z position is:3432.1751
+readDrift script. Cumulative drift is:-1.35
+Channel configuration set to: Brightfield: 28-Sep-2018 17:19:56
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:19:56
+Channel:Brightfield set at:28-Sep-2018 17:19:56
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3430.8251. 28-Sep-2018 17:19:56
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:19:56
+Channel configuration set to: DIC: 28-Sep-2018 17:19:59
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:19:59
+Channel:DIC set at:28-Sep-2018 17:19:59
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3431.1501. 28-Sep-2018 17:20:00
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:20:00
+Channel configuration set to: GFP: 28-Sep-2018 17:20:03
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:20:03
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:20:03
+Channel:GFP set at:28-Sep-2018 17:20:03
+Exposure time:60ms
+Exposure time:60ms
+captureStack (Batgirl). Z drive position before stack capture is: 3431.1501. 28-Sep-2018 17:20:04
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:20:04
+Position:11,pos011
+Position group:3
+Channel configuration set to: Brightfield: 28-Sep-2018 17:20:06
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:20:06
+Evolve:Port set to Normal  28-Sep-2018 17:20:07
+Moved to X:9234.5, Y:8586.4
+Call to readDrift after moving to position11
+readDrift script. Reference z position is:3429.9501
+readDrift script. Cumulative drift is:-1.2
+Channel configuration set to: Brightfield: 28-Sep-2018 17:20:08
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:20:08
+Channel:Brightfield set at:28-Sep-2018 17:20:08
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3428.7751. 28-Sep-2018 17:20:08
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:20:08
+Channel configuration set to: DIC: 28-Sep-2018 17:20:11
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:20:11
+Channel:DIC set at:28-Sep-2018 17:20:11
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3428.7751. 28-Sep-2018 17:20:12
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:20:12
+Channel configuration set to: GFP: 28-Sep-2018 17:20:15
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:20:15
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:20:15
+Channel:GFP set at:28-Sep-2018 17:20:15
+Exposure time:35ms
+Exposure time:35ms
+captureStack (Batgirl). Z drive position before stack capture is: 3428.7751. 28-Sep-2018 17:20:16
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:20:16
+Position:12,pos012
+Position group:3
+Channel configuration set to: Brightfield: 28-Sep-2018 17:20:18
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:20:18
+Evolve:Port set to Normal  28-Sep-2018 17:20:19
+Moved to X:9234.5, Y:8168.4
+Call to readDrift after moving to position12
+readDrift script. Reference z position is:3428.6751
+readDrift script. Cumulative drift is:-0.05
+Channel configuration set to: Brightfield: 28-Sep-2018 17:20:19
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:20:19
+Channel:Brightfield set at:28-Sep-2018 17:20:19
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3428.2751. 28-Sep-2018 17:20:19
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:20:19
+Channel configuration set to: DIC: 28-Sep-2018 17:20:22
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:20:22
+Channel:DIC set at:28-Sep-2018 17:20:22
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3428.2251. 28-Sep-2018 17:20:23
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:20:23
+Channel configuration set to: GFP: 28-Sep-2018 17:20:26
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:20:26
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:20:26
+Channel:GFP set at:28-Sep-2018 17:20:26
+Exposure time:35ms
+Exposure time:35ms
+captureStack (Batgirl). Z drive position before stack capture is: 3428.2251. 28-Sep-2018 17:20:27
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:20:27
+Position:13,pos013
+Position group:3
+Channel configuration set to: Brightfield: 28-Sep-2018 17:20:30
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:20:30
+Evolve:Port set to Normal  28-Sep-2018 17:20:30
+Moved to X:9554.6, Y:8168.4
+Call to readDrift after moving to position13
+readDrift script. Reference z position is:3429.0251
+readDrift script. Cumulative drift is:-1.2
+Channel configuration set to: Brightfield: 28-Sep-2018 17:20:31
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:20:31
+Channel:Brightfield set at:28-Sep-2018 17:20:31
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3427.8251. 28-Sep-2018 17:20:31
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:20:31
+Channel configuration set to: DIC: 28-Sep-2018 17:20:34
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:20:34
+Channel:DIC set at:28-Sep-2018 17:20:34
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3427.7501. 28-Sep-2018 17:20:35
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:20:35
+Channel configuration set to: GFP: 28-Sep-2018 17:20:38
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:20:38
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:20:38
+Channel:GFP set at:28-Sep-2018 17:20:38
+Exposure time:35ms
+Exposure time:35ms
+captureStack (Batgirl). Z drive position before stack capture is: 3427.7501. 28-Sep-2018 17:20:39
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:20:39
+Position:14,pos014
+Position group:3
+Channel configuration set to: Brightfield: 28-Sep-2018 17:20:41
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:20:41
+Evolve:Port set to Normal  28-Sep-2018 17:20:41
+Moved to X:10041.5, Y:8161
+Call to readDrift after moving to position14
+readDrift script. Reference z position is:3428.9751
+readDrift script. Cumulative drift is:-0.85
+Channel configuration set to: Brightfield: 28-Sep-2018 17:20:42
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:20:42
+Channel:Brightfield set at:28-Sep-2018 17:20:42
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3428.1251. 28-Sep-2018 17:20:42
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:20:42
+Channel configuration set to: DIC: 28-Sep-2018 17:20:45
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:20:45
+Channel:DIC set at:28-Sep-2018 17:20:45
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3428.1501. 28-Sep-2018 17:20:46
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:20:46
+Channel configuration set to: GFP: 28-Sep-2018 17:20:49
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:20:49
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:20:49
+Channel:GFP set at:28-Sep-2018 17:20:49
+Exposure time:35ms
+Exposure time:35ms
+captureStack (Batgirl). Z drive position before stack capture is: 3428.1501. 28-Sep-2018 17:20:50
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:20:50
+Position:15,pos015
+Position group:3
+Channel configuration set to: Brightfield: 28-Sep-2018 17:20:53
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:20:53
+Evolve:Port set to Normal  28-Sep-2018 17:20:53
+Moved to X:10017.1, Y:8599.9
+Call to readDrift after moving to position15
+readDrift script. Reference z position is:3430.5001
+readDrift script. Cumulative drift is:-0.4
+Channel configuration set to: Brightfield: 28-Sep-2018 17:20:54
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:20:54
+Channel:Brightfield set at:28-Sep-2018 17:20:54
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3430.1001. 28-Sep-2018 17:20:54
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:20:54
+Channel configuration set to: DIC: 28-Sep-2018 17:20:57
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:20:57
+Channel:DIC set at:28-Sep-2018 17:20:57
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3430.1001. 28-Sep-2018 17:20:58
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:20:58
+Channel configuration set to: GFP: 28-Sep-2018 17:21:01
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:21:01
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:21:01
+Channel:GFP set at:28-Sep-2018 17:21:01
+Exposure time:35ms
+Exposure time:35ms
+captureStack (Batgirl). Z drive position before stack capture is: 3430.1001. 28-Sep-2018 17:21:02
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:21:02
+Position:16,pos016
+Position group:4
+Channel configuration set to: Brightfield: 28-Sep-2018 17:21:04
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:21:04
+Evolve:Port set to Normal  28-Sep-2018 17:21:04
+Moved to X:10781.3, Y:8594.7
+Call to readDrift after moving to position16
+readDrift script. Reference z position is:3428.9001
+readDrift script. Cumulative drift is:-0.6
+Channel configuration set to: Brightfield: 28-Sep-2018 17:21:05
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:21:05
+Channel:Brightfield set at:28-Sep-2018 17:21:05
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3428.3001. 28-Sep-2018 17:21:05
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:21:05
+Channel configuration set to: DIC: 28-Sep-2018 17:21:08
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:21:08
+Channel:DIC set at:28-Sep-2018 17:21:08
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3428.2751. 28-Sep-2018 17:21:09
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:21:09
+Channel configuration set to: GFP: 28-Sep-2018 17:21:12
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:21:12
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:21:12
+Channel:GFP set at:28-Sep-2018 17:21:12
+Exposure time:60ms
+Exposure time:60ms
+captureStack (Batgirl). Z drive position before stack capture is: 3428.2751. 28-Sep-2018 17:21:13
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:21:13
+Position:17,pos017
+Position group:4
+Channel configuration set to: Brightfield: 28-Sep-2018 17:21:16
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:21:16
+Evolve:Port set to Normal  28-Sep-2018 17:21:16
+Moved to X:10749.6, Y:8186.8
+Call to readDrift after moving to position17
+readDrift script. Reference z position is:3428.1251
+readDrift script. Cumulative drift is:-0.2
+Channel configuration set to: Brightfield: 28-Sep-2018 17:21:17
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:21:17
+Channel:Brightfield set at:28-Sep-2018 17:21:17
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3427.8751. 28-Sep-2018 17:21:17
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:21:17
+Channel configuration set to: DIC: 28-Sep-2018 17:21:20
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:21:20
+Channel:DIC set at:28-Sep-2018 17:21:20
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3427.9001. 28-Sep-2018 17:21:21
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:21:21
+Channel configuration set to: GFP: 28-Sep-2018 17:21:23
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:21:23
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:21:24
+Channel:GFP set at:28-Sep-2018 17:21:24
+Exposure time:60ms
+Exposure time:60ms
+captureStack (Batgirl). Z drive position before stack capture is: 3427.9001. 28-Sep-2018 17:21:24
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:21:24
+Position:18,pos018
+Position group:4
+Channel configuration set to: Brightfield: 28-Sep-2018 17:21:27
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:21:27
+Evolve:Port set to Normal  28-Sep-2018 17:21:27
+Moved to X:11110.7, Y:8186.8
+Call to readDrift after moving to position18
+readDrift script. Reference z position is:3427.1501
+readDrift script. Cumulative drift is:-0.425
+Channel configuration set to: Brightfield: 28-Sep-2018 17:21:28
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:21:28
+Channel:Brightfield set at:28-Sep-2018 17:21:28
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3426.7751. 28-Sep-2018 17:21:28
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:21:28
+Channel configuration set to: DIC: 28-Sep-2018 17:21:31
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:21:31
+Channel:DIC set at:28-Sep-2018 17:21:31
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3426.7751. 28-Sep-2018 17:21:32
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:21:32
+Channel configuration set to: GFP: 28-Sep-2018 17:21:35
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:21:35
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:21:35
+Channel:GFP set at:28-Sep-2018 17:21:35
+Exposure time:60ms
+Exposure time:60ms
+captureStack (Batgirl). Z drive position before stack capture is: 3426.7501. 28-Sep-2018 17:21:35
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:21:35
+Position:19,pos019
+Position group:4
+Channel configuration set to: Brightfield: 28-Sep-2018 17:21:38
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:21:38
+Evolve:Port set to Normal  28-Sep-2018 17:21:38
+Moved to X:11564.4, Y:8183.1
+Call to readDrift after moving to position19
+readDrift script. Reference z position is:3425.4501
+readDrift script. Cumulative drift is:-0.575
+Channel configuration set to: Brightfield: 28-Sep-2018 17:21:39
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:21:39
+Channel:Brightfield set at:28-Sep-2018 17:21:39
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3424.9751. 28-Sep-2018 17:21:39
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:21:39
+Channel configuration set to: DIC: 28-Sep-2018 17:21:42
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:21:42
+Channel:DIC set at:28-Sep-2018 17:21:42
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3424.9501. 28-Sep-2018 17:21:43
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:21:43
+Channel configuration set to: GFP: 28-Sep-2018 17:21:46
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:21:46
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:21:46
+Channel:GFP set at:28-Sep-2018 17:21:46
+Exposure time:60ms
+Exposure time:60ms
+captureStack (Batgirl). Z drive position before stack capture is: 3424.9251. 28-Sep-2018 17:21:46
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:21:46
+Position:20,pos020
+Position group:4
+Channel configuration set to: Brightfield: 28-Sep-2018 17:21:49
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:21:49
+Evolve:Port set to Normal  28-Sep-2018 17:21:49
+Moved to X:11577.7, Y:8599.8
+Call to readDrift after moving to position20
+readDrift script. Reference z position is:3426.2251
+readDrift script. Cumulative drift is:-1.15
+Channel configuration set to: Brightfield: 28-Sep-2018 17:21:50
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:21:50
+Channel:Brightfield set at:28-Sep-2018 17:21:50
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3425.0501. 28-Sep-2018 17:21:50
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:21:50
+Channel configuration set to: DIC: 28-Sep-2018 17:21:53
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:21:53
+Channel:DIC set at:28-Sep-2018 17:21:53
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3425.0251. 28-Sep-2018 17:21:54
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:21:54
+Channel configuration set to: GFP: 28-Sep-2018 17:21:56
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:21:56
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:21:56
+Channel:GFP set at:28-Sep-2018 17:21:56
+Exposure time:60ms
+Exposure time:60ms
+captureStack (Batgirl). Z drive position before stack capture is: 3425.0501. 28-Sep-2018 17:21:57
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:21:57
+Position:21,pos021
+Position group:5
+Channel configuration set to: Brightfield: 28-Sep-2018 17:22:00
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:22:00
+Evolve:Port set to Normal  28-Sep-2018 17:22:00
+Moved to X:11519.1, Y:9785.8
+Call to readDrift after moving to position21
+readDrift script. Reference z position is:3428.4251
+readDrift script. Cumulative drift is:-2.475
+Channel configuration set to: Brightfield: 28-Sep-2018 17:22:00
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:22:00
+Channel:Brightfield set at:28-Sep-2018 17:22:00
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3427.2251. 28-Sep-2018 17:22:01
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:22:01
+Channel configuration set to: DIC: 28-Sep-2018 17:22:03
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:22:03
+Channel:DIC set at:28-Sep-2018 17:22:03
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3427.2501. 28-Sep-2018 17:22:04
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:22:04
+Channel configuration set to: GFP: 28-Sep-2018 17:22:07
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:22:07
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:22:07
+Channel:GFP set at:28-Sep-2018 17:22:07
+Exposure time:60ms
+Exposure time:60ms
+captureStack (Batgirl). Z drive position before stack capture is: 3427.2751. 28-Sep-2018 17:22:08
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:22:08
+Position:22,pos022
+Position group:5
+Channel configuration set to: Brightfield: 28-Sep-2018 17:22:11
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:22:11
+Evolve:Port set to Normal  28-Sep-2018 17:22:11
+Moved to X:11787.5, Y:9785.8
+Call to readDrift after moving to position22
+readDrift script. Reference z position is:3426.5501
+readDrift script. Cumulative drift is:0.6
+Channel configuration set to: Brightfield: 28-Sep-2018 17:22:11
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:22:11
+Channel:Brightfield set at:28-Sep-2018 17:22:11
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3426.3751. 28-Sep-2018 17:22:12
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:22:12
+Channel configuration set to: DIC: 28-Sep-2018 17:22:14
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:22:14
+Channel:DIC set at:28-Sep-2018 17:22:14
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3426.3751. 28-Sep-2018 17:22:15
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:22:15
+Channel configuration set to: GFP: 28-Sep-2018 17:22:18
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:22:18
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:22:18
+Channel:GFP set at:28-Sep-2018 17:22:18
+Exposure time:60ms
+Exposure time:60ms
+captureStack (Batgirl). Z drive position before stack capture is: 3426.3751. 28-Sep-2018 17:22:19
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:22:19
+Position:23,pos023
+Position group:5
+Channel configuration set to: Brightfield: 28-Sep-2018 17:22:22
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:22:22
+Evolve:Port set to Normal  28-Sep-2018 17:22:22
+Moved to X:12216.2, Y:9773.6
+Call to readDrift after moving to position23
+readDrift script. Reference z position is:3424.5751
+readDrift script. Cumulative drift is:-1.075
+Channel configuration set to: Brightfield: 28-Sep-2018 17:22:23
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:22:23
+Channel:Brightfield set at:28-Sep-2018 17:22:23
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3423.4751. 28-Sep-2018 17:22:23
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:22:23
+Channel configuration set to: DIC: 28-Sep-2018 17:22:26
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:22:26
+Channel:DIC set at:28-Sep-2018 17:22:26
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3423.4751. 28-Sep-2018 17:22:27
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:22:27
+Channel configuration set to: GFP: 28-Sep-2018 17:22:29
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:22:29
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:22:29
+Channel:GFP set at:28-Sep-2018 17:22:29
+Exposure time:60ms
+Exposure time:60ms
+captureStack (Batgirl). Z drive position before stack capture is: 3423.4251. 28-Sep-2018 17:22:30
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:22:30
+Position:24,pos024
+Position group:5
+Channel configuration set to: Brightfield: 28-Sep-2018 17:22:33
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:22:33
+Evolve:Port set to Normal  28-Sep-2018 17:22:33
+Moved to X:12216.1, Y:10270.9
+Call to readDrift after moving to position24
+readDrift script. Reference z position is:3423.2251
+readDrift script. Cumulative drift is:0.1
+Channel configuration set to: Brightfield: 28-Sep-2018 17:22:33
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:22:33
+Channel:Brightfield set at:28-Sep-2018 17:22:33
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3423.3251. 28-Sep-2018 17:22:33
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:22:34
+Channel configuration set to: DIC: 28-Sep-2018 17:22:36
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:22:36
+Channel:DIC set at:28-Sep-2018 17:22:36
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3423.2251. 28-Sep-2018 17:22:37
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:22:37
+Channel configuration set to: GFP: 28-Sep-2018 17:22:40
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:22:40
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:22:40
+Channel:GFP set at:28-Sep-2018 17:22:40
+Exposure time:60ms
+Exposure time:60ms
+captureStack (Batgirl). Z drive position before stack capture is: 3423.2251. 28-Sep-2018 17:22:41
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:22:41
+Position:25,pos025
+Position group:5
+Channel configuration set to: Brightfield: 28-Sep-2018 17:22:43
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:22:43
+Evolve:Port set to Normal  28-Sep-2018 17:22:43
+Moved to X:11631.4, Y:10250.7
+Call to readDrift after moving to position25
+readDrift script. Reference z position is:3428.1501
+readDrift script. Cumulative drift is:-1.925
+Channel configuration set to: Brightfield: 28-Sep-2018 17:22:44
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:22:44
+Channel:Brightfield set at:28-Sep-2018 17:22:44
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3426.2251. 28-Sep-2018 17:22:44
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:22:44
+Channel configuration set to: DIC: 28-Sep-2018 17:22:47
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:22:47
+Channel:DIC set at:28-Sep-2018 17:22:47
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3426.8751. 28-Sep-2018 17:22:48
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:22:48
+Channel configuration set to: GFP: 28-Sep-2018 17:22:50
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:22:50
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:22:50
+Channel:GFP set at:28-Sep-2018 17:22:50
+Exposure time:60ms
+Exposure time:60ms
+captureStack (Batgirl). Z drive position before stack capture is: 3426.9001. 28-Sep-2018 17:22:51
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:22:51
+Position group_1. Channel:Brightfield
+Maximum intensity measured in position group_1_is:0
+Channel does not use Smart EM camera mode. Settings remain unchanged.
+Position group_1. Channel:DIC
+Maximum intensity measured in position group_1_is:0
+Channel does not use Smart EM camera mode. Settings remain unchanged.
+Position group_1. Channel:GFP
+Maximum intensity measured in position group_1_is:0
+Channel does not use Smart EM camera mode. Settings remain unchanged.
+Position group_1. Channel:Brightfield
+Maximum intensity measured in position group_1_is:0
+Channel does not use Smart EM camera mode. Settings remain unchanged.
+Position group_1. Channel:DIC
+Maximum intensity measured in position group_1_is:0
+Channel does not use Smart EM camera mode. Settings remain unchanged.
+Position group_1. Channel:GFP
+Maximum intensity measured in position group_1_is:0
+Channel does not use Smart EM camera mode. Settings remain unchanged.
+Position group_1. Channel:Brightfield
+Maximum intensity measured in position group_1_is:0
+Channel does not use Smart EM camera mode. Settings remain unchanged.
+Position group_1. Channel:DIC
+Maximum intensity measured in position group_1_is:0
+Channel does not use Smart EM camera mode. Settings remain unchanged.
+Position group_1. Channel:GFP
+Maximum intensity measured in position group_1_is:0
+Channel does not use Smart EM camera mode. Settings remain unchanged.
+Position group_1. Channel:Brightfield
+Maximum intensity measured in position group_1_is:0
+Channel does not use Smart EM camera mode. Settings remain unchanged.
+Position group_1. Channel:DIC
+Maximum intensity measured in position group_1_is:0
+Channel does not use Smart EM camera mode. Settings remain unchanged.
+Position group_1. Channel:GFP
+Maximum intensity measured in position group_1_is:0
+Channel does not use Smart EM camera mode. Settings remain unchanged.
+Position group_1. Channel:Brightfield
+Maximum intensity measured in position group_1_is:0
+Channel does not use Smart EM camera mode. Settings remain unchanged.
+Position group_1. Channel:DIC
+Maximum intensity measured in position group_1_is:0
+Channel does not use Smart EM camera mode. Settings remain unchanged.
+Position group_1. Channel:GFP
+Maximum intensity measured in position group_1_is:0
+Channel does not use Smart EM camera mode. Settings remain unchanged.
+Timepoint:1 completed at:28-Sep-2018 17:22:54
+Time since start of timelapse:279.9699
+PFS is locked
+Time to next time point:20.1002
+
+------Time point_2------
+Memory available for all arrays: 62012465152
+Memory used by Matlab: 1634959360
+Position:1,pos001
+Position group:1
+Channel configuration set to: Brightfield: 28-Sep-2018 17:23:14
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:23:14
+Evolve:Port set to Normal  28-Sep-2018 17:23:14
+Moved to X:10846.5, Y:10208.1
+Call to readDrift after moving to position1
+readDrift script. Reference z position is:3431.4251
+readDrift script. Cumulative drift is:-1.4
+Channel configuration set to: Brightfield: 28-Sep-2018 17:23:15
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:23:15
+Channel:Brightfield set at:28-Sep-2018 17:23:15
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3430.0251. 28-Sep-2018 17:23:15
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:23:15
+Channel configuration set to: DIC: 28-Sep-2018 17:23:18
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:23:18
+Channel:DIC set at:28-Sep-2018 17:23:18
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3430.0251. 28-Sep-2018 17:23:19
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:23:19
+Channel configuration set to: GFP: 28-Sep-2018 17:23:22
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:23:22
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:23:22
+Channel:GFP set at:28-Sep-2018 17:23:22
+Exposure time:7ms
+Exposure time:7ms
+captureStack (Batgirl). Z drive position before stack capture is: 3429.9751. 28-Sep-2018 17:23:22
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:23:22
+Position:2,pos002
+Position group:1
+Channel configuration set to: Brightfield: 28-Sep-2018 17:23:25
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:23:25
+Evolve:Port set to Normal  28-Sep-2018 17:23:25
+Moved to X:10846.5, Y:9805.6
+Call to readDrift after moving to position2
+readDrift script. Reference z position is:3430.8751
+readDrift script. Cumulative drift is:-1.075
+Channel configuration set to: Brightfield: 28-Sep-2018 17:23:26
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:23:26
+Channel:Brightfield set at:28-Sep-2018 17:23:26
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3429.8001. 28-Sep-2018 17:23:26
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:23:26
+Channel configuration set to: DIC: 28-Sep-2018 17:23:29
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:23:29
+Channel:DIC set at:28-Sep-2018 17:23:29
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3429.7501. 28-Sep-2018 17:23:30
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:23:30
+Channel configuration set to: GFP: 28-Sep-2018 17:23:32
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:23:32
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:23:33
+Channel:GFP set at:28-Sep-2018 17:23:33
+Exposure time:7ms
+Exposure time:7ms
+captureStack (Batgirl). Z drive position before stack capture is: 3429.7751. 28-Sep-2018 17:23:33
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:23:33
+Position:3,pos003
+Position group:1
+Channel configuration set to: Brightfield: 28-Sep-2018 17:23:36
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:23:36
+Evolve:Port set to Normal  28-Sep-2018 17:23:36
+Moved to X:10479.3, Y:9805.6
+Call to readDrift after moving to position3
+readDrift script. Reference z position is:3432.1001
+readDrift script. Cumulative drift is:-1.35
+Channel configuration set to: Brightfield: 28-Sep-2018 17:23:37
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:23:37
+Channel:Brightfield set at:28-Sep-2018 17:23:37
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3430.7501. 28-Sep-2018 17:23:37
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:23:37
+Channel configuration set to: DIC: 28-Sep-2018 17:23:40
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:23:40
+Channel:DIC set at:28-Sep-2018 17:23:40
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3430.7501. 28-Sep-2018 17:23:41
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:23:41
+Channel configuration set to: GFP: 28-Sep-2018 17:23:43
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:23:43
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:23:43
+Channel:GFP set at:28-Sep-2018 17:23:43
+Exposure time:7ms
+Exposure time:7ms
+captureStack (Batgirl). Z drive position before stack capture is: 3430.7501. 28-Sep-2018 17:23:44
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:23:44
+Position:4,pos004
+Position group:1
+Channel configuration set to: Brightfield: 28-Sep-2018 17:23:47
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:23:47
+Evolve:Port set to Normal  28-Sep-2018 17:23:47
+Moved to X:9983.8, Y:9820.7
+Call to readDrift after moving to position4
+readDrift script. Reference z position is:3433.0001
+readDrift script. Cumulative drift is:-2.275
+Channel configuration set to: Brightfield: 28-Sep-2018 17:23:47
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:23:47
+Channel:Brightfield set at:28-Sep-2018 17:23:47
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3430.8751. 28-Sep-2018 17:23:48
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:23:48
+Channel configuration set to: DIC: 28-Sep-2018 17:23:50
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:23:50
+Channel:DIC set at:28-Sep-2018 17:23:50
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3430.9251. 28-Sep-2018 17:23:51
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:23:51
+Channel configuration set to: GFP: 28-Sep-2018 17:23:54
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:23:54
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:23:54
+Channel:GFP set at:28-Sep-2018 17:23:54
+Exposure time:7ms
+Exposure time:7ms
+captureStack (Batgirl). Z drive position before stack capture is: 3430.9251. 28-Sep-2018 17:23:55
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:23:55
+Position:5,pos005
+Position group:1
+Channel configuration set to: Brightfield: 28-Sep-2018 17:23:57
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:23:58
+Evolve:Port set to Normal  28-Sep-2018 17:23:58
+Moved to X:9990.9, Y:10223
+Call to readDrift after moving to position5
+readDrift script. Reference z position is:3432.9251
+readDrift script. Cumulative drift is:-2.575
+Channel configuration set to: Brightfield: 28-Sep-2018 17:23:58
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:23:58
+Channel:Brightfield set at:28-Sep-2018 17:23:58
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3430.3501. 28-Sep-2018 17:23:59
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:23:59
+Channel configuration set to: DIC: 28-Sep-2018 17:24:02
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:24:02
+Channel:DIC set at:28-Sep-2018 17:24:02
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3430.2751. 28-Sep-2018 17:24:03
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:24:03
+Channel configuration set to: GFP: 28-Sep-2018 17:24:05
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:24:05
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:24:05
+Channel:GFP set at:28-Sep-2018 17:24:05
+Exposure time:7ms
+Exposure time:7ms
+captureStack (Batgirl). Z drive position before stack capture is: 3430.2751. 28-Sep-2018 17:24:06
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:24:06
+Position:6,pos006
+Position group:2
+Channel configuration set to: Brightfield: 28-Sep-2018 17:24:09
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:24:09
+Evolve:Port set to Normal  28-Sep-2018 17:24:09
+Moved to X:9288.9, Y:10259.6
+Call to readDrift after moving to position6
+readDrift script. Reference z position is:3432.4001
+readDrift script. Cumulative drift is:-1.725
+Channel configuration set to: Brightfield: 28-Sep-2018 17:24:10
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:24:10
+Channel:Brightfield set at:28-Sep-2018 17:24:10
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3430.6751. 28-Sep-2018 17:24:10
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:24:10
+Channel configuration set to: DIC: 28-Sep-2018 17:24:13
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:24:13
+Channel:DIC set at:28-Sep-2018 17:24:13
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3430.7001. 28-Sep-2018 17:24:13
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:24:13
+Channel configuration set to: GFP: 28-Sep-2018 17:24:16
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:24:16
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:24:16
+Channel:GFP set at:28-Sep-2018 17:24:16
+Exposure time:60ms
+Exposure time:60ms
+captureStack (Batgirl). Z drive position before stack capture is: 3430.6751. 28-Sep-2018 17:24:17
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:24:17
+Position:7,pos007
+Position group:2
+Channel configuration set to: Brightfield: 28-Sep-2018 17:24:20
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:24:20
+Evolve:Port set to Normal  28-Sep-2018 17:24:20
+Moved to X:8569.5, Y:10233.2
+Call to readDrift after moving to position7
+readDrift script. Reference z position is:3430.7251
+readDrift script. Cumulative drift is:-1.625
+Channel configuration set to: Brightfield: 28-Sep-2018 17:24:21
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:24:21
+Channel:Brightfield set at:28-Sep-2018 17:24:21
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3429.0751. 28-Sep-2018 17:24:21
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:24:21
+Channel configuration set to: DIC: 28-Sep-2018 17:24:24
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:24:24
+Channel:DIC set at:28-Sep-2018 17:24:24
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3429.1001. 28-Sep-2018 17:24:25
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:24:25
+Channel configuration set to: GFP: 28-Sep-2018 17:24:28
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:24:28
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:24:28
+Channel:GFP set at:28-Sep-2018 17:24:28
+Exposure time:60ms
+Exposure time:60ms
+captureStack (Batgirl). Z drive position before stack capture is: 3429.1001. 28-Sep-2018 17:24:29
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:24:29
+Position:8,pos008
+Position group:2
+Channel configuration set to: Brightfield: 28-Sep-2018 17:24:32
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:24:32
+Evolve:Port set to Normal  28-Sep-2018 17:24:32
+Moved to X:8569.5, Y:9844.6
+Call to readDrift after moving to position8
+readDrift script. Reference z position is:3430.5751
+readDrift script. Cumulative drift is:-1.325
+Channel configuration set to: Brightfield: 28-Sep-2018 17:24:32
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:24:32
+Channel:Brightfield set at:28-Sep-2018 17:24:32
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3429.2501. 28-Sep-2018 17:24:33
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:24:33
+Channel configuration set to: DIC: 28-Sep-2018 17:24:35
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:24:35
+Channel:DIC set at:28-Sep-2018 17:24:35
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3429.2251. 28-Sep-2018 17:24:36
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:24:36
+Channel configuration set to: GFP: 28-Sep-2018 17:24:39
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:24:39
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:24:39
+Channel:GFP set at:28-Sep-2018 17:24:39
+Exposure time:60ms
+Exposure time:60ms
+captureStack (Batgirl). Z drive position before stack capture is: 3429.2501. 28-Sep-2018 17:24:40
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:24:40
+Position:9,pos009
+Position group:2
+Channel configuration set to: Brightfield: 28-Sep-2018 17:24:43
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:24:43
+Evolve:Port set to Normal  28-Sep-2018 17:24:43
+Moved to X:8788.8, Y:9823.9
+Call to readDrift after moving to position9
+readDrift script. Reference z position is:3431.8501
+readDrift script. Cumulative drift is:-2.95
+Channel configuration set to: Brightfield: 28-Sep-2018 17:24:43
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:24:43
+Channel:Brightfield set at:28-Sep-2018 17:24:43
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3429.4001. 28-Sep-2018 17:24:44
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:24:44
+Channel configuration set to: DIC: 28-Sep-2018 17:24:46
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:24:46
+Channel:DIC set at:28-Sep-2018 17:24:46
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3429.4251. 28-Sep-2018 17:24:47
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:24:47
+Channel configuration set to: GFP: 28-Sep-2018 17:24:50
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:24:50
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:24:50
+Channel:GFP set at:28-Sep-2018 17:24:50
+Exposure time:60ms
+Exposure time:60ms
+captureStack (Batgirl). Z drive position before stack capture is: 3429.4501. 28-Sep-2018 17:24:51
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:24:51
+Position:10,pos010
+Position group:2
+Channel configuration set to: Brightfield: 28-Sep-2018 17:24:53
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:24:53
+Evolve:Port set to Normal  28-Sep-2018 17:24:54
+Moved to X:9215, Y:9815.1
+Call to readDrift after moving to position10
+readDrift script. Reference z position is:3432.1751
+readDrift script. Cumulative drift is:-1.35
+Channel configuration set to: Brightfield: 28-Sep-2018 17:24:54
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:24:54
+Channel:Brightfield set at:28-Sep-2018 17:24:54
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3430.8251. 28-Sep-2018 17:24:54
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:24:55
+Channel configuration set to: DIC: 28-Sep-2018 17:24:57
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:24:57
+Channel:DIC set at:28-Sep-2018 17:24:57
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3430.7501. 28-Sep-2018 17:24:58
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:24:58
+Channel configuration set to: GFP: 28-Sep-2018 17:25:01
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:25:01
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:25:01
+Channel:GFP set at:28-Sep-2018 17:25:01
+Exposure time:60ms
+Exposure time:60ms
+captureStack (Batgirl). Z drive position before stack capture is: 3430.7751. 28-Sep-2018 17:25:02
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:25:02
+Position:11,pos011
+Position group:3
+Channel configuration set to: Brightfield: 28-Sep-2018 17:25:04
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:25:04
+Evolve:Port set to Normal  28-Sep-2018 17:25:04
+Moved to X:9234.5, Y:8586.4
+Call to readDrift after moving to position11
+readDrift script. Reference z position is:3429.9501
+readDrift script. Cumulative drift is:-1.55
+Channel configuration set to: Brightfield: 28-Sep-2018 17:25:05
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:25:05
+Channel:Brightfield set at:28-Sep-2018 17:25:05
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3428.4001. 28-Sep-2018 17:25:06
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:25:06
+Channel configuration set to: DIC: 28-Sep-2018 17:25:08
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:25:08
+Channel:DIC set at:28-Sep-2018 17:25:08
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3428.3501. 28-Sep-2018 17:25:09
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:25:09
+Channel configuration set to: GFP: 28-Sep-2018 17:25:12
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:25:12
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:25:12
+Channel:GFP set at:28-Sep-2018 17:25:12
+Exposure time:35ms
+Exposure time:35ms
+captureStack (Batgirl). Z drive position before stack capture is: 3428.3501. 28-Sep-2018 17:25:13
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:25:13
+Position:12,pos012
+Position group:3
+Channel configuration set to: Brightfield: 28-Sep-2018 17:25:16
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:25:16
+Evolve:Port set to Normal  28-Sep-2018 17:25:16
+Moved to X:9234.5, Y:8168.4
+Call to readDrift after moving to position12
+readDrift script. Reference z position is:3428.6751
+readDrift script. Cumulative drift is:-0.65
+Channel configuration set to: Brightfield: 28-Sep-2018 17:25:16
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:25:16
+Channel:Brightfield set at:28-Sep-2018 17:25:16
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3428.0251. 28-Sep-2018 17:25:17
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:25:17
+Channel configuration set to: DIC: 28-Sep-2018 17:25:19
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:25:19
+Channel:DIC set at:28-Sep-2018 17:25:19
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3427.5751. 28-Sep-2018 17:25:20
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:25:20
+Channel configuration set to: GFP: 28-Sep-2018 17:25:23
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:25:23
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:25:23
+Channel:GFP set at:28-Sep-2018 17:25:23
+Exposure time:35ms
+Exposure time:35ms
+captureStack (Batgirl). Z drive position before stack capture is: 3427.5751. 28-Sep-2018 17:25:24
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:25:24
+Position:13,pos013
+Position group:3
+Channel configuration set to: Brightfield: 28-Sep-2018 17:25:26
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:25:26
+Evolve:Port set to Normal  28-Sep-2018 17:25:26
+Moved to X:9554.6, Y:8168.4
+Call to readDrift after moving to position13
+readDrift script. Reference z position is:3429.0251
+readDrift script. Cumulative drift is:-1.6
+Channel configuration set to: Brightfield: 28-Sep-2018 17:25:27
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:25:27
+Channel:Brightfield set at:28-Sep-2018 17:25:27
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3427.3501. 28-Sep-2018 17:25:27
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:25:27
+Channel configuration set to: DIC: 28-Sep-2018 17:25:30
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:25:30
+Channel:DIC set at:28-Sep-2018 17:25:30
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3427.3501. 28-Sep-2018 17:25:31
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:25:31
+Channel configuration set to: GFP: 28-Sep-2018 17:25:33
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:25:33
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:25:34
+Channel:GFP set at:28-Sep-2018 17:25:34
+Exposure time:35ms
+Exposure time:35ms
+captureStack (Batgirl). Z drive position before stack capture is: 3427.3501. 28-Sep-2018 17:25:34
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:25:34
+Position:14,pos014
+Position group:3
+Channel configuration set to: Brightfield: 28-Sep-2018 17:25:37
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:25:37
+Evolve:Port set to Normal  28-Sep-2018 17:25:37
+Moved to X:10041.5, Y:8161
+Call to readDrift after moving to position14
+readDrift script. Reference z position is:3428.9751
+readDrift script. Cumulative drift is:-1.2
+Channel configuration set to: Brightfield: 28-Sep-2018 17:25:38
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:25:38
+Channel:Brightfield set at:28-Sep-2018 17:25:38
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3427.7751. 28-Sep-2018 17:25:38
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:25:38
+Channel configuration set to: DIC: 28-Sep-2018 17:25:41
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:25:41
+Channel:DIC set at:28-Sep-2018 17:25:41
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3427.7501. 28-Sep-2018 17:25:41
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:25:41
+Channel configuration set to: GFP: 28-Sep-2018 17:25:44
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:25:44
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:25:44
+Channel:GFP set at:28-Sep-2018 17:25:44
+Exposure time:35ms
+Exposure time:35ms
+captureStack (Batgirl). Z drive position before stack capture is: 3427.7751. 28-Sep-2018 17:25:45
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:25:45
+Position:15,pos015
+Position group:3
+Channel configuration set to: Brightfield: 28-Sep-2018 17:25:47
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:25:47
+Evolve:Port set to Normal  28-Sep-2018 17:25:48
+Moved to X:10017.1, Y:8599.9
+Call to readDrift after moving to position15
+readDrift script. Reference z position is:3430.5001
+readDrift script. Cumulative drift is:-0.775
+Channel configuration set to: Brightfield: 28-Sep-2018 17:25:48
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:25:48
+Channel:Brightfield set at:28-Sep-2018 17:25:48
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3429.7501. 28-Sep-2018 17:25:49
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:25:49
+Channel configuration set to: DIC: 28-Sep-2018 17:25:51
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:25:51
+Channel:DIC set at:28-Sep-2018 17:25:51
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3429.7501. 28-Sep-2018 17:25:52
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:25:52
+Channel configuration set to: GFP: 28-Sep-2018 17:25:55
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:25:55
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:25:55
+Channel:GFP set at:28-Sep-2018 17:25:55
+Exposure time:35ms
+Exposure time:35ms
+captureStack (Batgirl). Z drive position before stack capture is: 3429.7751. 28-Sep-2018 17:25:56
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:25:56
+Position:16,pos016
+Position group:4
+Channel configuration set to: Brightfield: 28-Sep-2018 17:25:59
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:25:59
+Evolve:Port set to Normal  28-Sep-2018 17:25:59
+Moved to X:10781.3, Y:8594.7
+Call to readDrift after moving to position16
+readDrift script. Reference z position is:3428.9001
+readDrift script. Cumulative drift is:-0.9
+Channel configuration set to: Brightfield: 28-Sep-2018 17:26:00
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:26:00
+Channel:Brightfield set at:28-Sep-2018 17:26:00
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3428.0001. 28-Sep-2018 17:26:00
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:26:00
+Channel configuration set to: DIC: 28-Sep-2018 17:26:03
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:26:03
+Channel:DIC set at:28-Sep-2018 17:26:03
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3427.9501. 28-Sep-2018 17:26:03
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:26:04
+Channel configuration set to: GFP: 28-Sep-2018 17:26:06
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:26:06
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:26:06
+Channel:GFP set at:28-Sep-2018 17:26:06
+Exposure time:60ms
+Exposure time:60ms
+captureStack (Batgirl). Z drive position before stack capture is: 3427.9751. 28-Sep-2018 17:26:07
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:26:07
+Position:17,pos017
+Position group:4
+Channel configuration set to: Brightfield: 28-Sep-2018 17:26:10
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:26:10
+Evolve:Port set to Normal  28-Sep-2018 17:26:10
+Moved to X:10749.6, Y:8186.8
+Call to readDrift after moving to position17
+readDrift script. Reference z position is:3428.1251
+readDrift script. Cumulative drift is:-0.55
+Channel configuration set to: Brightfield: 28-Sep-2018 17:26:11
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:26:11
+Channel:Brightfield set at:28-Sep-2018 17:26:11
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3427.5751. 28-Sep-2018 17:26:11
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:26:11
+Channel configuration set to: DIC: 28-Sep-2018 17:26:14
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:26:14
+Channel:DIC set at:28-Sep-2018 17:26:14
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3427.5751. 28-Sep-2018 17:26:15
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:26:15
+Channel configuration set to: GFP: 28-Sep-2018 17:26:17
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:26:17
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:26:17
+Channel:GFP set at:28-Sep-2018 17:26:17
+Exposure time:60ms
+Exposure time:60ms
+captureStack (Batgirl). Z drive position before stack capture is: 3427.5001. 28-Sep-2018 17:26:18
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:26:18
+Position:18,pos018
+Position group:4
+Channel configuration set to: Brightfield: 28-Sep-2018 17:26:20
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:26:20
+Evolve:Port set to Normal  28-Sep-2018 17:26:21
+Moved to X:11110.7, Y:8186.8
+Call to readDrift after moving to position18
+readDrift script. Reference z position is:3427.1501
+readDrift script. Cumulative drift is:-0.75
+Channel configuration set to: Brightfield: 28-Sep-2018 17:26:22
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:26:22
+Channel:Brightfield set at:28-Sep-2018 17:26:22
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3426.4001. 28-Sep-2018 17:26:22
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:26:22
+Channel configuration set to: DIC: 28-Sep-2018 17:26:25
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:26:25
+Channel:DIC set at:28-Sep-2018 17:26:25
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3426.3751. 28-Sep-2018 17:26:26
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:26:26
+Channel configuration set to: GFP: 28-Sep-2018 17:26:28
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:26:28
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:26:28
+Channel:GFP set at:28-Sep-2018 17:26:28
+Exposure time:60ms
+Exposure time:60ms
+captureStack (Batgirl). Z drive position before stack capture is: 3426.4001. 28-Sep-2018 17:26:29
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:26:29
+Position:19,pos019
+Position group:4
+Channel configuration set to: Brightfield: 28-Sep-2018 17:26:32
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:26:32
+Evolve:Port set to Normal  28-Sep-2018 17:26:32
+Moved to X:11564.4, Y:8183.1
+Call to readDrift after moving to position19
+readDrift script. Reference z position is:3425.4501
+readDrift script. Cumulative drift is:-0.9
+Channel configuration set to: Brightfield: 28-Sep-2018 17:26:33
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:26:33
+Channel:Brightfield set at:28-Sep-2018 17:26:33
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3424.5501. 28-Sep-2018 17:26:33
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:26:34
+Channel configuration set to: DIC: 28-Sep-2018 17:26:36
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:26:36
+Channel:DIC set at:28-Sep-2018 17:26:36
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3424.5251. 28-Sep-2018 17:26:37
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:26:37
+Channel configuration set to: GFP: 28-Sep-2018 17:26:40
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:26:40
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:26:40
+Channel:GFP set at:28-Sep-2018 17:26:40
+Exposure time:60ms
+Exposure time:60ms
+captureStack (Batgirl). Z drive position before stack capture is: 3424.5251. 28-Sep-2018 17:26:41
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:26:41
+Position:20,pos020
+Position group:4
+Channel configuration set to: Brightfield: 28-Sep-2018 17:26:43
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:26:43
+Evolve:Port set to Normal  28-Sep-2018 17:26:43
+Moved to X:11577.7, Y:8599.8
+Call to readDrift after moving to position20
+readDrift script. Reference z position is:3426.2251
+readDrift script. Cumulative drift is:-1.55
+Channel configuration set to: Brightfield: 28-Sep-2018 17:26:44
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:26:44
+Channel:Brightfield set at:28-Sep-2018 17:26:44
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3424.6751. 28-Sep-2018 17:26:45
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:26:45
+Channel configuration set to: DIC: 28-Sep-2018 17:26:47
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:26:47
+Channel:DIC set at:28-Sep-2018 17:26:47
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3424.6751. 28-Sep-2018 17:26:48
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:26:48
+Channel configuration set to: GFP: 28-Sep-2018 17:26:51
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:26:51
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:26:51
+Channel:GFP set at:28-Sep-2018 17:26:51
+Exposure time:60ms
+Exposure time:60ms
+captureStack (Batgirl). Z drive position before stack capture is: 3424.6751. 28-Sep-2018 17:26:52
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:26:52
+Position:21,pos021
+Position group:5
+Channel configuration set to: Brightfield: 28-Sep-2018 17:26:54
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:26:54
+Evolve:Port set to Normal  28-Sep-2018 17:26:55
+Moved to X:11519.1, Y:9785.8
+Call to readDrift after moving to position21
+readDrift script. Reference z position is:3428.4251
+readDrift script. Cumulative drift is:-1.75
+Channel configuration set to: Brightfield: 28-Sep-2018 17:26:55
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:26:55
+Channel:Brightfield set at:28-Sep-2018 17:26:55
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3426.6001. 28-Sep-2018 17:26:56
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:26:56
+Channel configuration set to: DIC: 28-Sep-2018 17:26:58
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:26:58
+Channel:DIC set at:28-Sep-2018 17:26:58
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3426.6001. 28-Sep-2018 17:26:59
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:26:59
+Channel configuration set to: GFP: 28-Sep-2018 17:27:02
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:27:02
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:27:02
+Channel:GFP set at:28-Sep-2018 17:27:02
+Exposure time:60ms
+Exposure time:60ms
+captureStack (Batgirl). Z drive position before stack capture is: 3426.6001. 28-Sep-2018 17:27:03
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:27:03
+Position:22,pos022
+Position group:5
+Channel configuration set to: Brightfield: 28-Sep-2018 17:27:06
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:27:06
+Evolve:Port set to Normal  28-Sep-2018 17:27:06
+Moved to X:11787.5, Y:9785.8
+Call to readDrift after moving to position22
+readDrift script. Reference z position is:3426.5501
+readDrift script. Cumulative drift is:-0.825
+Channel configuration set to: Brightfield: 28-Sep-2018 17:27:06
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:27:07
+Channel:Brightfield set at:28-Sep-2018 17:27:07
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3425.7751. 28-Sep-2018 17:27:07
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:27:07
+Channel configuration set to: DIC: 28-Sep-2018 17:27:10
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:27:10
+Channel:DIC set at:28-Sep-2018 17:27:10
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3425.7251. 28-Sep-2018 17:27:11
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:27:11
+Channel configuration set to: GFP: 28-Sep-2018 17:27:13
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:27:13
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:27:13
+Channel:GFP set at:28-Sep-2018 17:27:13
+Exposure time:60ms
+Exposure time:60ms
+captureStack (Batgirl). Z drive position before stack capture is: 3425.7251. 28-Sep-2018 17:27:14
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:27:14
+Position:23,pos023
+Position group:5
+Channel configuration set to: Brightfield: 28-Sep-2018 17:27:17
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:27:17
+Evolve:Port set to Normal  28-Sep-2018 17:27:17
+Moved to X:12216.2, Y:9773.6
+Call to readDrift after moving to position23
+readDrift script. Reference z position is:3424.5751
+readDrift script. Cumulative drift is:0.775
+Channel configuration set to: Brightfield: 28-Sep-2018 17:27:17
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:27:17
+Channel:Brightfield set at:28-Sep-2018 17:27:17
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3425.3501. 28-Sep-2018 17:27:18
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:27:18
+Channel configuration set to: DIC: 28-Sep-2018 17:27:20
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:27:20
+Channel:DIC set at:28-Sep-2018 17:27:20
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3423.5251. 28-Sep-2018 17:27:21
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:27:21
+Channel configuration set to: GFP: 28-Sep-2018 17:27:24
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:27:24
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:27:24
+Channel:GFP set at:28-Sep-2018 17:27:24
+Exposure time:60ms
+Exposure time:60ms
+captureStack (Batgirl). Z drive position before stack capture is: 3423.5251. 28-Sep-2018 17:27:25
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:27:25
+Position:24,pos024
+Position group:5
+Channel configuration set to: Brightfield: 28-Sep-2018 17:27:28
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:27:28
+Evolve:Port set to Normal  28-Sep-2018 17:27:28
+Moved to X:12216.1, Y:10270.9
+Call to readDrift after moving to position24
+readDrift script. Reference z position is:3423.2251
+readDrift script. Cumulative drift is:-0.35
+Channel configuration set to: Brightfield: 28-Sep-2018 17:27:28
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:27:28
+Channel:Brightfield set at:28-Sep-2018 17:27:28
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3422.8001. 28-Sep-2018 17:27:29
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:27:29
+Channel configuration set to: DIC: 28-Sep-2018 17:27:31
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:27:31
+Channel:DIC set at:28-Sep-2018 17:27:31
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3422.7751. 28-Sep-2018 17:27:32
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:27:32
+Channel configuration set to: GFP: 28-Sep-2018 17:27:35
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:27:35
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:27:35
+Channel:GFP set at:28-Sep-2018 17:27:35
+Exposure time:60ms
+Exposure time:60ms
+captureStack (Batgirl). Z drive position before stack capture is: 3422.7751. 28-Sep-2018 17:27:36
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:27:36
+Position:25,pos025
+Position group:5
+Channel configuration set to: Brightfield: 28-Sep-2018 17:27:39
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:27:39
+Evolve:Port set to Normal  28-Sep-2018 17:27:39
+Moved to X:11631.4, Y:10250.7
+Call to readDrift after moving to position25
+readDrift script. Reference z position is:3428.1501
+readDrift script. Cumulative drift is:-2.825
+Channel configuration set to: Brightfield: 28-Sep-2018 17:27:39
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:27:39
+Channel:Brightfield set at:28-Sep-2018 17:27:39
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3425.3251. 28-Sep-2018 17:27:40
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:27:40
+Channel configuration set to: DIC: 28-Sep-2018 17:27:42
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:27:42
+Channel:DIC set at:28-Sep-2018 17:27:42
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3426.2751. 28-Sep-2018 17:27:43
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:27:43
+Channel configuration set to: GFP: 28-Sep-2018 17:27:46
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:27:46
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:27:46
+Channel:GFP set at:28-Sep-2018 17:27:46
+Exposure time:60ms
+Exposure time:60ms
+captureStack (Batgirl). Z drive position before stack capture is: 3426.2501. 28-Sep-2018 17:27:46
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:27:46
+Position group_1. Channel:Brightfield
+Maximum intensity measured in position group_1_is:0
+Channel does not use Smart EM camera mode. Settings remain unchanged.
+Position group_1. Channel:DIC
+Maximum intensity measured in position group_1_is:0
+Channel does not use Smart EM camera mode. Settings remain unchanged.
+Position group_1. Channel:GFP
+Maximum intensity measured in position group_1_is:0
+Channel does not use Smart EM camera mode. Settings remain unchanged.
+Position group_1. Channel:Brightfield
+Maximum intensity measured in position group_1_is:0
+Channel does not use Smart EM camera mode. Settings remain unchanged.
+Position group_1. Channel:DIC
+Maximum intensity measured in position group_1_is:0
+Channel does not use Smart EM camera mode. Settings remain unchanged.
+Position group_1. Channel:GFP
+Maximum intensity measured in position group_1_is:0
+Channel does not use Smart EM camera mode. Settings remain unchanged.
+Position group_1. Channel:Brightfield
+Maximum intensity measured in position group_1_is:0
+Channel does not use Smart EM camera mode. Settings remain unchanged.
+Position group_1. Channel:DIC
+Maximum intensity measured in position group_1_is:0
+Channel does not use Smart EM camera mode. Settings remain unchanged.
+Position group_1. Channel:GFP
+Maximum intensity measured in position group_1_is:0
+Channel does not use Smart EM camera mode. Settings remain unchanged.
+Position group_1. Channel:Brightfield
+Maximum intensity measured in position group_1_is:0
+Channel does not use Smart EM camera mode. Settings remain unchanged.
+Position group_1. Channel:DIC
+Maximum intensity measured in position group_1_is:0
+Channel does not use Smart EM camera mode. Settings remain unchanged.
+Position group_1. Channel:GFP
+Maximum intensity measured in position group_1_is:0
+Channel does not use Smart EM camera mode. Settings remain unchanged.
+Position group_1. Channel:Brightfield
+Maximum intensity measured in position group_1_is:0
+Channel does not use Smart EM camera mode. Settings remain unchanged.
+Position group_1. Channel:DIC
+Maximum intensity measured in position group_1_is:0
+Channel does not use Smart EM camera mode. Settings remain unchanged.
+Position group_1. Channel:GFP
+Maximum intensity measured in position group_1_is:0
+Channel does not use Smart EM camera mode. Settings remain unchanged.
+Timepoint:2 completed at:28-Sep-2018 17:27:49
+Time since start of timelapse:575.4946
+PFS is locked
+Time to next time point:24.5781
+
+------Time point_3------
+Memory available for all arrays: 62043914240
+Memory used by Matlab: 1627750400
+Position:1,pos001
+Position group:1
+Channel configuration set to: Brightfield: 28-Sep-2018 17:28:14
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:28:14
+Evolve:Port set to Normal  28-Sep-2018 17:28:14
+Moved to X:10846.5, Y:10208.1
+Call to readDrift after moving to position1
+readDrift script. Reference z position is:3431.4251
+readDrift script. Cumulative drift is:-1.775
+Channel configuration set to: Brightfield: 28-Sep-2018 17:28:15
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:28:15
+Channel:Brightfield set at:28-Sep-2018 17:28:15
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3429.6501. 28-Sep-2018 17:28:15
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:28:15
+Channel configuration set to: DIC: 28-Sep-2018 17:28:18
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:28:18
+Channel:DIC set at:28-Sep-2018 17:28:18
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3429.6501. 28-Sep-2018 17:28:19
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:28:19
+Channel configuration set to: GFP: 28-Sep-2018 17:28:22
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:28:22
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:28:22
+Channel:GFP set at:28-Sep-2018 17:28:22
+Exposure time:7ms
+Exposure time:7ms
+captureStack (Batgirl). Z drive position before stack capture is: 3429.6501. 28-Sep-2018 17:28:23
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:28:23
+Position:2,pos002
+Position group:1
+Channel configuration set to: Brightfield: 28-Sep-2018 17:28:25
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:28:25
+Evolve:Port set to Normal  28-Sep-2018 17:28:25
+Moved to X:10846.5, Y:9805.6
+Call to readDrift after moving to position2
+readDrift script. Reference z position is:3430.8751
+readDrift script. Cumulative drift is:-1.375
+Channel configuration set to: Brightfield: 28-Sep-2018 17:28:26
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:28:26
+Channel:Brightfield set at:28-Sep-2018 17:28:26
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3429.5001. 28-Sep-2018 17:28:26
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:28:27
+Channel configuration set to: DIC: 28-Sep-2018 17:28:29
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:28:29
+Channel:DIC set at:28-Sep-2018 17:28:29
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3429.4501. 28-Sep-2018 17:28:30
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:28:30
+Channel configuration set to: GFP: 28-Sep-2018 17:28:33
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:28:33
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:28:33
+Channel:GFP set at:28-Sep-2018 17:28:33
+Exposure time:7ms
+Exposure time:7ms
+captureStack (Batgirl). Z drive position before stack capture is: 3429.4751. 28-Sep-2018 17:28:34
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:28:34
+Position:3,pos003
+Position group:1
+Channel configuration set to: Brightfield: 28-Sep-2018 17:28:36
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:28:36
+Evolve:Port set to Normal  28-Sep-2018 17:28:36
+Moved to X:10479.3, Y:9805.6
+Call to readDrift after moving to position3
+readDrift script. Reference z position is:3432.1001
+readDrift script. Cumulative drift is:-2.55
+Channel configuration set to: Brightfield: 28-Sep-2018 17:28:37
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:28:37
+Channel:Brightfield set at:28-Sep-2018 17:28:37
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3430.1251. 28-Sep-2018 17:28:37
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:28:37
+Channel configuration set to: DIC: 28-Sep-2018 17:28:40
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:28:40
+Channel:DIC set at:28-Sep-2018 17:28:40
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3430.1501. 28-Sep-2018 17:28:41
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:28:41
+Channel configuration set to: GFP: 28-Sep-2018 17:28:43
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:28:43
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:28:44
+Channel:GFP set at:28-Sep-2018 17:28:44
+Exposure time:7ms
+Exposure time:7ms
+captureStack (Batgirl). Z drive position before stack capture is: 3430.1501. 28-Sep-2018 17:28:44
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:28:44
+Position:4,pos004
+Position group:1
+Channel configuration set to: Brightfield: 28-Sep-2018 17:28:47
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:28:47
+Evolve:Port set to Normal  28-Sep-2018 17:28:47
+Moved to X:9983.8, Y:9820.7
+Call to readDrift after moving to position4
+readDrift script. Reference z position is:3433.0001
+readDrift script. Cumulative drift is:-1.9
+Channel configuration set to: Brightfield: 28-Sep-2018 17:28:48
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:28:48
+Channel:Brightfield set at:28-Sep-2018 17:28:48
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3431.1001. 28-Sep-2018 17:28:48
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:28:48
+Channel configuration set to: DIC: 28-Sep-2018 17:28:51
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:28:51
+Channel:DIC set at:28-Sep-2018 17:28:51
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3431.1001. 28-Sep-2018 17:28:52
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:28:52
+Channel configuration set to: GFP: 28-Sep-2018 17:28:55
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:28:55
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:28:55
+Channel:GFP set at:28-Sep-2018 17:28:55
+Exposure time:7ms
+Exposure time:7ms
+captureStack (Batgirl). Z drive position before stack capture is: 3431.1001. 28-Sep-2018 17:28:56
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:28:56
+Position:5,pos005
+Position group:1
+Channel configuration set to: Brightfield: 28-Sep-2018 17:28:58
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:28:58
+Evolve:Port set to Normal  28-Sep-2018 17:28:58
+Moved to X:9990.9, Y:10223
+Call to readDrift after moving to position5
+readDrift script. Reference z position is:3432.9251
+readDrift script. Cumulative drift is:-2
+Channel configuration set to: Brightfield: 28-Sep-2018 17:28:59
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:28:59
+Channel:Brightfield set at:28-Sep-2018 17:28:59
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3430.4001. 28-Sep-2018 17:28:59
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:28:59
+Channel configuration set to: DIC: 28-Sep-2018 17:29:02
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:29:02
+Channel:DIC set at:28-Sep-2018 17:29:02
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3430.3501. 28-Sep-2018 17:29:03
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:29:03
+Channel configuration set to: GFP: 28-Sep-2018 17:29:05
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:29:05
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:29:06
+Channel:GFP set at:28-Sep-2018 17:29:06
+Exposure time:7ms
+Exposure time:7ms
+captureStack (Batgirl). Z drive position before stack capture is: 3430.3501. 28-Sep-2018 17:29:06
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:29:07
+Position:6,pos006
+Position group:2
+Channel configuration set to: Brightfield: 28-Sep-2018 17:29:09
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:29:09
+Evolve:Port set to Normal  28-Sep-2018 17:29:09
+Moved to X:9288.9, Y:10259.6
+Call to readDrift after moving to position6
+readDrift script. Reference z position is:3432.4001
+readDrift script. Cumulative drift is:-2.05
+Channel configuration set to: Brightfield: 28-Sep-2018 17:29:10
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:29:10
+Channel:Brightfield set at:28-Sep-2018 17:29:10
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3430.3501. 28-Sep-2018 17:29:11
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:29:11
+Channel configuration set to: DIC: 28-Sep-2018 17:29:13
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:29:13
+Channel:DIC set at:28-Sep-2018 17:29:13
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3430.2751. 28-Sep-2018 17:29:14
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:29:14
+Channel configuration set to: GFP: 28-Sep-2018 17:29:17
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:29:17
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:29:17
+Channel:GFP set at:28-Sep-2018 17:29:17
+Exposure time:60ms
+Exposure time:60ms
+captureStack (Batgirl). Z drive position before stack capture is: 3430.3251. 28-Sep-2018 17:29:18
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:29:18
+Position:7,pos007
+Position group:2
+Channel configuration set to: Brightfield: 28-Sep-2018 17:29:20
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:29:20
+Evolve:Port set to Normal  28-Sep-2018 17:29:20
+Moved to X:8569.5, Y:10233.2
+Call to readDrift after moving to position7
+readDrift script. Reference z position is:3430.7251
+readDrift script. Cumulative drift is:-0.4
+Channel configuration set to: Brightfield: 28-Sep-2018 17:29:21
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:29:21
+Channel:Brightfield set at:28-Sep-2018 17:29:21
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3429.2751. 28-Sep-2018 17:29:21
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:29:21
+Channel configuration set to: DIC: 28-Sep-2018 17:29:24
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:29:24
+Channel:DIC set at:28-Sep-2018 17:29:24
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3429.2251. 28-Sep-2018 17:29:25
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:29:25
+Channel configuration set to: GFP: 28-Sep-2018 17:29:27
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:29:27
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:29:27
+Channel:GFP set at:28-Sep-2018 17:29:27
+Exposure time:60ms
+Exposure time:60ms
+captureStack (Batgirl). Z drive position before stack capture is: 3429.2501. 28-Sep-2018 17:29:28
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:29:28
+Position:8,pos008
+Position group:2
+Channel configuration set to: Brightfield: 28-Sep-2018 17:29:31
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:29:31
+Evolve:Port set to Normal  28-Sep-2018 17:29:31
+Moved to X:8569.5, Y:9844.6
+Call to readDrift after moving to position8
+readDrift script. Reference z position is:3430.5751
+readDrift script. Cumulative drift is:-1.95
+Channel configuration set to: Brightfield: 28-Sep-2018 17:29:32
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:29:32
+Channel:Brightfield set at:28-Sep-2018 17:29:32
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3428.5751. 28-Sep-2018 17:29:32
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:29:32
+Channel configuration set to: DIC: 28-Sep-2018 17:29:35
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:29:35
+Channel:DIC set at:28-Sep-2018 17:29:35
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3428.5501. 28-Sep-2018 17:29:36
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:29:36
+Channel configuration set to: GFP: 28-Sep-2018 17:29:39
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:29:39
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:29:39
+Channel:GFP set at:28-Sep-2018 17:29:39
+Exposure time:60ms
+Exposure time:60ms
+captureStack (Batgirl). Z drive position before stack capture is: 3428.5251. 28-Sep-2018 17:29:39
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:29:39
+Position:9,pos009
+Position group:2
+Channel configuration set to: Brightfield: 28-Sep-2018 17:29:42
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:29:42
+Evolve:Port set to Normal  28-Sep-2018 17:29:42
+Moved to X:8788.8, Y:9823.9
+Call to readDrift after moving to position9
+readDrift script. Reference z position is:3431.8501
+readDrift script. Cumulative drift is:-2.225
+Channel configuration set to: Brightfield: 28-Sep-2018 17:29:43
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:29:43
+Channel:Brightfield set at:28-Sep-2018 17:29:43
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3429.6501. 28-Sep-2018 17:29:43
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:29:43
+Channel configuration set to: DIC: 28-Sep-2018 17:29:46
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:29:46
+Channel:DIC set at:28-Sep-2018 17:29:46
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3429.6001. 28-Sep-2018 17:29:47
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:29:47
+Channel configuration set to: GFP: 28-Sep-2018 17:29:50
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:29:50
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:29:50
+Channel:GFP set at:28-Sep-2018 17:29:50
+Exposure time:60ms
+Exposure time:60ms
+captureStack (Batgirl). Z drive position before stack capture is: 3429.6001. 28-Sep-2018 17:29:50
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:29:50
+Position:10,pos010
+Position group:2
+Channel configuration set to: Brightfield: 28-Sep-2018 17:29:53
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:29:53
+Evolve:Port set to Normal  28-Sep-2018 17:29:53
+Moved to X:9215, Y:9815.1
+Call to readDrift after moving to position10
+readDrift script. Reference z position is:3432.1751
+readDrift script. Cumulative drift is:-1.725
+Channel configuration set to: Brightfield: 28-Sep-2018 17:29:54
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:29:54
+Channel:Brightfield set at:28-Sep-2018 17:29:54
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3430.4501. 28-Sep-2018 17:29:54
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:29:54
+Channel configuration set to: DIC: 28-Sep-2018 17:29:57
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:29:57
+Channel:DIC set at:28-Sep-2018 17:29:57
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3430.4251. 28-Sep-2018 17:29:58
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:29:58
+Channel configuration set to: GFP: 28-Sep-2018 17:30:00
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:30:00
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:30:00
+Channel:GFP set at:28-Sep-2018 17:30:00
+Exposure time:60ms
+Exposure time:60ms
+captureStack (Batgirl). Z drive position before stack capture is: 3430.4251. 28-Sep-2018 17:30:01
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:30:01
+Position:11,pos011
+Position group:3
+Channel configuration set to: Brightfield: 28-Sep-2018 17:30:04
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:30:04
+Evolve:Port set to Normal  28-Sep-2018 17:30:04
+Moved to X:9234.5, Y:8586.4
+Call to readDrift after moving to position11
+readDrift script. Reference z position is:3429.9501
+readDrift script. Cumulative drift is:-1.725
+Channel configuration set to: Brightfield: 28-Sep-2018 17:30:05
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:30:05
+Channel:Brightfield set at:28-Sep-2018 17:30:05
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3428.2251. 28-Sep-2018 17:30:05
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:30:05
+Channel configuration set to: DIC: 28-Sep-2018 17:30:08
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:30:08
+Channel:DIC set at:28-Sep-2018 17:30:08
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3428.2251. 28-Sep-2018 17:30:09
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:30:09
+Channel configuration set to: GFP: 28-Sep-2018 17:30:12
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:30:12
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:30:12
+Channel:GFP set at:28-Sep-2018 17:30:12
+Exposure time:35ms
+Exposure time:35ms
+captureStack (Batgirl). Z drive position before stack capture is: 3428.2001. 28-Sep-2018 17:30:13
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:30:13
+Position:12,pos012
+Position group:3
+Channel configuration set to: Brightfield: 28-Sep-2018 17:30:15
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:30:15
+Evolve:Port set to Normal  28-Sep-2018 17:30:15
+Moved to X:9234.5, Y:8168.4
+Call to readDrift after moving to position12
+readDrift script. Reference z position is:3428.6751
+readDrift script. Cumulative drift is:-0.9
+Channel configuration set to: Brightfield: 28-Sep-2018 17:30:16
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:30:16
+Channel:Brightfield set at:28-Sep-2018 17:30:16
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3427.7751. 28-Sep-2018 17:30:16
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:30:16
+Channel configuration set to: DIC: 28-Sep-2018 17:30:19
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:30:19
+Channel:DIC set at:28-Sep-2018 17:30:19
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3427.5001. 28-Sep-2018 17:30:20
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:30:20
+Channel configuration set to: GFP: 28-Sep-2018 17:30:22
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:30:22
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:30:22
+Channel:GFP set at:28-Sep-2018 17:30:22
+Exposure time:35ms
+Exposure time:35ms
+captureStack (Batgirl). Z drive position before stack capture is: 3427.5251. 28-Sep-2018 17:30:23
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:30:23
+Position:13,pos013
+Position group:3
+Channel configuration set to: Brightfield: 28-Sep-2018 17:30:26
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:30:26
+Evolve:Port set to Normal  28-Sep-2018 17:30:26
+Moved to X:9554.6, Y:8168.4
+Call to readDrift after moving to position13
+readDrift script. Reference z position is:3429.0251
+readDrift script. Cumulative drift is:-2.125
+Channel configuration set to: Brightfield: 28-Sep-2018 17:30:27
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:30:27
+Channel:Brightfield set at:28-Sep-2018 17:30:27
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3426.9001. 28-Sep-2018 17:30:27
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:30:27
+Channel configuration set to: DIC: 28-Sep-2018 17:30:30
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:30:30
+Channel:DIC set at:28-Sep-2018 17:30:30
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3426.9001. 28-Sep-2018 17:30:31
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:30:31
+Channel configuration set to: GFP: 28-Sep-2018 17:30:33
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:30:33
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:30:34
+Channel:GFP set at:28-Sep-2018 17:30:34
+Exposure time:35ms
+Exposure time:35ms
+captureStack (Batgirl). Z drive position before stack capture is: 3426.8751. 28-Sep-2018 17:30:34
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:30:34
+Position:14,pos014
+Position group:3
+Channel configuration set to: Brightfield: 28-Sep-2018 17:30:37
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:30:37
+Evolve:Port set to Normal  28-Sep-2018 17:30:37
+Moved to X:10041.5, Y:8161
+Call to readDrift after moving to position14
+readDrift script. Reference z position is:3428.9751
+readDrift script. Cumulative drift is:-1.5
+Channel configuration set to: Brightfield: 28-Sep-2018 17:30:38
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:30:38
+Channel:Brightfield set at:28-Sep-2018 17:30:38
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3427.4501. 28-Sep-2018 17:30:38
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:30:38
+Channel configuration set to: DIC: 28-Sep-2018 17:30:41
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:30:41
+Channel:DIC set at:28-Sep-2018 17:30:41
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3427.4501. 28-Sep-2018 17:30:42
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:30:42
+Channel configuration set to: GFP: 28-Sep-2018 17:30:44
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:30:44
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:30:45
+Channel:GFP set at:28-Sep-2018 17:30:45
+Exposure time:35ms
+Exposure time:35ms
+captureStack (Batgirl). Z drive position before stack capture is: 3427.4251. 28-Sep-2018 17:30:45
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:30:45
+Position:15,pos015
+Position group:3
+Channel configuration set to: Brightfield: 28-Sep-2018 17:30:48
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:30:48
+Evolve:Port set to Normal  28-Sep-2018 17:30:48
+Moved to X:10017.1, Y:8599.9
+Call to readDrift after moving to position15
+readDrift script. Reference z position is:3430.5001
+readDrift script. Cumulative drift is:-1.1
+Channel configuration set to: Brightfield: 28-Sep-2018 17:30:49
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:30:49
+Channel:Brightfield set at:28-Sep-2018 17:30:49
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3429.3751. 28-Sep-2018 17:30:49
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:30:49
+Channel configuration set to: DIC: 28-Sep-2018 17:30:52
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:30:52
+Channel:DIC set at:28-Sep-2018 17:30:52
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3429.4001. 28-Sep-2018 17:30:53
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:30:53
+Channel configuration set to: GFP: 28-Sep-2018 17:30:55
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:30:55
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:30:55
+Channel:GFP set at:28-Sep-2018 17:30:55
+Exposure time:35ms
+Exposure time:35ms
+captureStack (Batgirl). Z drive position before stack capture is: 3429.4251. 28-Sep-2018 17:30:56
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:30:56
+Position:16,pos016
+Position group:4
+Channel configuration set to: Brightfield: 28-Sep-2018 17:30:59
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:30:59
+Evolve:Port set to Normal  28-Sep-2018 17:30:59
+Moved to X:10781.3, Y:8594.7
+Call to readDrift after moving to position16
+readDrift script. Reference z position is:3428.9001
+readDrift script. Cumulative drift is:-1.25
+Channel configuration set to: Brightfield: 28-Sep-2018 17:31:00
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:31:00
+Channel:Brightfield set at:28-Sep-2018 17:31:00
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3427.6751. 28-Sep-2018 17:31:00
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:31:00
+Channel configuration set to: DIC: 28-Sep-2018 17:31:03
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:31:03
+Channel:DIC set at:28-Sep-2018 17:31:03
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3427.6501. 28-Sep-2018 17:31:04
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:31:04
+Channel configuration set to: GFP: 28-Sep-2018 17:31:06
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:31:06
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:31:06
+Channel:GFP set at:28-Sep-2018 17:31:06
+Exposure time:60ms
+Exposure time:60ms
+captureStack (Batgirl). Z drive position before stack capture is: 3427.6501. 28-Sep-2018 17:31:07
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:31:07
+Position:17,pos017
+Position group:4
+Channel configuration set to: Brightfield: 28-Sep-2018 17:31:10
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:31:10
+Evolve:Port set to Normal  28-Sep-2018 17:31:10
+Moved to X:10749.6, Y:8186.8
+Call to readDrift after moving to position17
+readDrift script. Reference z position is:3428.1251
+readDrift script. Cumulative drift is:-0.95
+Channel configuration set to: Brightfield: 28-Sep-2018 17:31:11
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:31:11
+Channel:Brightfield set at:28-Sep-2018 17:31:11
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3427.1751. 28-Sep-2018 17:31:11
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:31:11
+Channel configuration set to: DIC: 28-Sep-2018 17:31:14
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:31:14
+Channel:DIC set at:28-Sep-2018 17:31:14
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3427.1251. 28-Sep-2018 17:31:15
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:31:15
+Channel configuration set to: GFP: 28-Sep-2018 17:31:17
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:31:17
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:31:17
+Channel:GFP set at:28-Sep-2018 17:31:17
+Exposure time:60ms
+Exposure time:60ms
+captureStack (Batgirl). Z drive position before stack capture is: 3427.1751. 28-Sep-2018 17:31:18
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:31:18
+Position:18,pos018
+Position group:4
+Channel configuration set to: Brightfield: 28-Sep-2018 17:31:20
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:31:20
+Evolve:Port set to Normal  28-Sep-2018 17:31:21
+Moved to X:11110.7, Y:8186.8
+Call to readDrift after moving to position18
+readDrift script. Reference z position is:3427.1501
+readDrift script. Cumulative drift is:-1.075
+Channel configuration set to: Brightfield: 28-Sep-2018 17:31:21
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:31:21
+Channel:Brightfield set at:28-Sep-2018 17:31:21
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3426.0751. 28-Sep-2018 17:31:22
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:31:22
+Channel configuration set to: DIC: 28-Sep-2018 17:31:24
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:31:24
+Channel:DIC set at:28-Sep-2018 17:31:24
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3426.0501. 28-Sep-2018 17:31:25
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:31:25
+Channel configuration set to: GFP: 28-Sep-2018 17:31:28
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:31:28
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:31:28
+Channel:GFP set at:28-Sep-2018 17:31:28
+Exposure time:60ms
+Exposure time:60ms
+captureStack (Batgirl). Z drive position before stack capture is: 3426.0251. 28-Sep-2018 17:31:29
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:31:29
+Position:19,pos019
+Position group:4
+Channel configuration set to: Brightfield: 28-Sep-2018 17:31:32
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:31:32
+Evolve:Port set to Normal  28-Sep-2018 17:31:32
+Moved to X:11564.4, Y:8183.1
+Call to readDrift after moving to position19
+readDrift script. Reference z position is:3425.4501
+readDrift script. Cumulative drift is:-0.35
+Channel configuration set to: Brightfield: 28-Sep-2018 17:31:32
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:31:32
+Channel:Brightfield set at:28-Sep-2018 17:31:32
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3425.1001. 28-Sep-2018 17:31:32
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:31:33
+Channel configuration set to: DIC: 28-Sep-2018 17:31:35
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:31:35
+Channel:DIC set at:28-Sep-2018 17:31:35
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3424.6501. 28-Sep-2018 17:31:36
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:31:36
+Channel configuration set to: GFP: 28-Sep-2018 17:31:39
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:31:39
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:31:39
+Channel:GFP set at:28-Sep-2018 17:31:39
+Exposure time:60ms
+Exposure time:60ms
+captureStack (Batgirl). Z drive position before stack capture is: 3424.6251. 28-Sep-2018 17:31:40
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:31:40
+Position:20,pos020
+Position group:4
+Channel configuration set to: Brightfield: 28-Sep-2018 17:31:42
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:31:42
+Evolve:Port set to Normal  28-Sep-2018 17:31:43
+Moved to X:11577.7, Y:8599.8
+Call to readDrift after moving to position20
+readDrift script. Reference z position is:3426.2251
+readDrift script. Cumulative drift is:-1.95
+Channel configuration set to: Brightfield: 28-Sep-2018 17:31:43
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:31:43
+Channel:Brightfield set at:28-Sep-2018 17:31:43
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3424.2751. 28-Sep-2018 17:31:43
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:31:43
+Channel configuration set to: DIC: 28-Sep-2018 17:31:46
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:31:46
+Channel:DIC set at:28-Sep-2018 17:31:46
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3424.2501. 28-Sep-2018 17:31:47
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:31:47
+Channel configuration set to: GFP: 28-Sep-2018 17:31:50
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:31:50
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:31:50
+Channel:GFP set at:28-Sep-2018 17:31:50
+Exposure time:60ms
+Exposure time:60ms
+captureStack (Batgirl). Z drive position before stack capture is: 3424.2751. 28-Sep-2018 17:31:51
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:31:51
+Position:21,pos021
+Position group:5
+Channel configuration set to: Brightfield: 28-Sep-2018 17:31:53
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:31:53
+Evolve:Port set to Normal  28-Sep-2018 17:31:53
+Moved to X:11519.1, Y:9785.8
+Call to readDrift after moving to position21
+readDrift script. Reference z position is:3428.4251
+readDrift script. Cumulative drift is:-2.075
+Channel configuration set to: Brightfield: 28-Sep-2018 17:31:55
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:31:55
+Channel:Brightfield set at:28-Sep-2018 17:31:55
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3426.3501. 28-Sep-2018 17:31:55
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:31:55
+Channel configuration set to: DIC: 28-Sep-2018 17:31:58
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:31:58
+Channel:DIC set at:28-Sep-2018 17:31:58
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3426.3501. 28-Sep-2018 17:31:58
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:31:58
+Channel configuration set to: GFP: 28-Sep-2018 17:32:01
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:32:01
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:32:01
+Channel:GFP set at:28-Sep-2018 17:32:01
+Exposure time:60ms
+Exposure time:60ms
+captureStack (Batgirl). Z drive position before stack capture is: 3426.3251. 28-Sep-2018 17:32:02
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:32:02
+Position:22,pos022
+Position group:5
+Channel configuration set to: Brightfield: 28-Sep-2018 17:32:04
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:32:04
+Evolve:Port set to Normal  28-Sep-2018 17:32:04
+Moved to X:11787.5, Y:9785.8
+Call to readDrift after moving to position22
+readDrift script. Reference z position is:3426.5501
+readDrift script. Cumulative drift is:-1.275
+Channel configuration set to: Brightfield: 28-Sep-2018 17:32:05
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:32:05
+Channel:Brightfield set at:28-Sep-2018 17:32:05
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3425.2751. 28-Sep-2018 17:32:06
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:32:06
+Channel configuration set to: DIC: 28-Sep-2018 17:32:08
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:32:08
+Channel:DIC set at:28-Sep-2018 17:32:08
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3425.2751. 28-Sep-2018 17:32:09
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:32:09
+Channel configuration set to: GFP: 28-Sep-2018 17:32:12
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:32:12
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:32:12
+Channel:GFP set at:28-Sep-2018 17:32:12
+Exposure time:60ms
+Exposure time:60ms
+captureStack (Batgirl). Z drive position before stack capture is: 3425.2501. 28-Sep-2018 17:32:13
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:32:13
+Position:23,pos023
+Position group:5
+Channel configuration set to: Brightfield: 28-Sep-2018 17:32:15
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:32:15
+Evolve:Port set to Normal  28-Sep-2018 17:32:15
+Moved to X:12216.2, Y:9773.6
+Call to readDrift after moving to position23
+readDrift script. Reference z position is:3424.5751
+readDrift script. Cumulative drift is:0.225
+Channel configuration set to: Brightfield: 28-Sep-2018 17:32:16
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:32:16
+Channel:Brightfield set at:28-Sep-2018 17:32:16
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3424.8001. 28-Sep-2018 17:32:16
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:32:16
+Channel configuration set to: DIC: 28-Sep-2018 17:32:19
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:32:19
+Channel:DIC set at:28-Sep-2018 17:32:19
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3423.0001. 28-Sep-2018 17:32:20
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:32:20
+Channel configuration set to: GFP: 28-Sep-2018 17:32:22
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:32:22
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:32:23
+Channel:GFP set at:28-Sep-2018 17:32:23
+Exposure time:60ms
+Exposure time:60ms
+captureStack (Batgirl). Z drive position before stack capture is: 3423.0001. 28-Sep-2018 17:32:23
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:32:23
+Position:24,pos024
+Position group:5
+Channel configuration set to: Brightfield: 28-Sep-2018 17:32:26
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:32:26
+Evolve:Port set to Normal  28-Sep-2018 17:32:26
+Moved to X:12216.1, Y:10270.9
+Call to readDrift after moving to position24
+readDrift script. Reference z position is:3423.2251
+readDrift script. Cumulative drift is:-0.825
+Channel configuration set to: Brightfield: 28-Sep-2018 17:32:27
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:32:27
+Channel:Brightfield set at:28-Sep-2018 17:32:27
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3422.4001. 28-Sep-2018 17:32:27
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:32:27
+Channel configuration set to: DIC: 28-Sep-2018 17:32:30
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:32:30
+Channel:DIC set at:28-Sep-2018 17:32:30
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3422.4001. 28-Sep-2018 17:32:31
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:32:31
+Channel configuration set to: GFP: 28-Sep-2018 17:32:34
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:32:34
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:32:34
+Channel:GFP set at:28-Sep-2018 17:32:34
+Exposure time:60ms
+Exposure time:60ms
+captureStack (Batgirl). Z drive position before stack capture is: 3422.4001. 28-Sep-2018 17:32:35
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:32:35
+Position:25,pos025
+Position group:5
+Channel configuration set to: Brightfield: 28-Sep-2018 17:32:37
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:32:37
+Evolve:Port set to Normal  28-Sep-2018 17:32:37
+Moved to X:11631.4, Y:10250.7
+Call to readDrift after moving to position25
+readDrift script. Reference z position is:3428.1501
+readDrift script. Cumulative drift is:-5.725
+Channel configuration set to: Brightfield: 28-Sep-2018 17:32:38
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:32:38
+Channel:Brightfield set at:28-Sep-2018 17:32:38
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3425.7751. 28-Sep-2018 17:32:38
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:32:38
+Channel configuration set to: DIC: 28-Sep-2018 17:32:41
+CairnIO:Direct Analog Out 0 set to 1  28-Sep-2018 17:32:41
+Channel:DIC set at:28-Sep-2018 17:32:41
+Exposure time:30ms
+Exposure time:30ms
+captureStack (Batgirl). Z drive position before stack capture is: 3425.8001. 28-Sep-2018 17:32:42
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:32:42
+Channel configuration set to: GFP: 28-Sep-2018 17:32:44
+CairnIO:Direct Analog Out 2 set to 4  28-Sep-2018 17:32:44
+Evolve:Port set to Multiplication Gain  28-Sep-2018 17:32:45
+Channel:GFP set at:28-Sep-2018 17:32:45
+Exposure time:60ms
+Exposure time:60ms
+captureStack (Batgirl). Z drive position before stack capture is: 3425.8251. 28-Sep-2018 17:32:45
+captureStack (Batgirl). Starting Z stage position is: 0.6. 28-Sep-2018 17:32:45
+Position group_1. Channel:Brightfield
+Maximum intensity measured in position group_1_is:0
+Channel does not use Smart EM camera mode. Settings remain unchanged.
+Position group_1. Channel:DIC
+Maximum intensity measured in position group_1_is:0
+Channel does not use Smart EM camera mode. Settings remain unchanged.
+Position group_1. Channel:GFP
+Maximum intensity measured in position group_1_is:0
+Channel does not use Smart EM camera mode. Settings remain unchanged.
+Position group_1. Channel:Brightfield
+Maximum intensity measured in position group_1_is:0
+Channel does not use Smart EM camera mode. Settings remain unchanged.
+Position group_1. Channel:DIC
+Maximum intensity measured in position group_1_is:0
+Channel does not use Smart EM camera mode. Settings remain unchanged.
+Position group_1. Channel:GFP
+Maximum intensity measured in position group_1_is:0
+Channel does not use Smart EM camera mode. Settings remain unchanged.
+Position group_1. Channel:Brightfield
+Maximum intensity measured in position group_1_is:0
+Channel does not use Smart EM camera mode. Settings remain unchanged.
+Position group_1. Channel:DIC
+Maximum intensity measured in position group_1_is:0
+Channel does not use Smart EM camera mode. Settings remain unchanged.
+Position group_1. Channel:GFP
+Maximum intensity measured in position group_1_is:0
+Channel does not use Smart EM camera mode. Settings remain unchanged.
+Position group_1. Channel:Brightfield
+Maximum intensity measured in position group_1_is:0
+Channel does not use Smart EM camera mode. Settings remain unchanged.
+Position group_1. Channel:DIC
+Maximum intensity measured in position group_1_is:0
+Channel does not use Smart EM camera mode. Settings remain unchanged.
+Position group_1. Channel:GFP
+Maximum intensity measured in position group_1_is:0
+Channel does not use Smart EM camera mode. Settings remain unchanged.
+Position group_1. Channel:Brightfield
+Maximum intensity measured in position group_1_is:0
+Channel does not use Smart EM camera mode. Settings remain unchanged.
+Position group_1. Channel:DIC
+Maximum intensity measured in position group_1_is:0
+Channel does not use Smart EM camera mode. Settings remain unchanged.
+Position group_1. Channel:GFP
+Maximum intensity measured in position group_1_is:0
+Channel does not use Smart EM camera mode. Settings remain unchanged.
+Timepoint:3 completed at:28-Sep-2018 17:32:48
+Time since start of timelapse:874.3116
+PFS is locked
+Time to next time point:25.7632
+
