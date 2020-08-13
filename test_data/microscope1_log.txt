@@ -1,13 +1,13 @@
 28-Sep-2018
-Microscope name is: Batgirl
+Microscope name is: Microscope1
 Experiment details:
 Aim: Compare morphology markers across microscopes
 Strain:
-Htb2-GFP
-Myo1-GFP
-Hog1-GFP
-Lte1-GFP
-Vph1-GFP
+Mig1-GFP
+Dot6-GFP
+Maf1-GFP
+Sfp1-GFP
+Msn2-GFP
 Authors:
 Julian Pietsch
 Ivan Clark
