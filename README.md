@@ -1,6 +1,6 @@
 ******************************************************************************
 **Updated 12/07/21: This repository is the current live code base for OMEROConnect and
-pyOmeroUpload demonstration Jupyter Notebooks
+pyOmeroUpload demonstration Jupyter Notebooks**
 ******************************************************************************
 
 # omero_connect_demo
